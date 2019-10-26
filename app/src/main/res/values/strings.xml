@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tarea Activity</string>
+    
+    <string name="text_nombre">Nombre</string>
+    <string name="text_nombre_hint">Escriba su Nombre</string>
+    <string name="text_nombre_error">Falta el Nombre</string>
+
+    <string name="text_apellido">Apellido</string>
+    <string name="text_apellido_hint">Escriba su Apellido</string>
+    <string name="text_apellido_error">Falta el Apellido</string>
+
+    <string name="text_edad">Edad</string>
+    <string name="text_edad_hint">Escriba su Edad</string>
+    <string name="text_edad_error">Falta la Edad</string>
+
+    <string name="text_sexo">Sexo</string>
+    <string name="button_radio_masculino">Masculino</string>
+    <string name="button_radio_femenino">Femenino</string>
+    <string name="button_radio_sexo_error">Falta el Sexo</string>
+
+    <string name="text_estado_civil">Estado Civil</string>
+    <string-array name="spinner_estado_civil">
+        <item></item>
+        <item>Soltero/a</item>
+        <item>Casado/a</item>
+        <item>Divorciado/a</item>
+        <item>Viudo/a</item>
+    </string-array>
+    <string name="spinner_estado_civil_error">Falta el Estado Civil</string>
+
+    <string name="text_fecha_nac">Fecha Nacimiento</string>
+    <string name="text_fecha_nac_hint">dd/mm/aaaa</string>
+    <string name="text_fecha_nac_error">Falta la Fecha de Nacimiento</string>
+
+    <string name="text_correo">Email</string>
+    <string name="text_correo_hint">mail@example.com</string>
+    <string name="text_correo_error">Falta el Email</string>
+    <string name="text_correo_error_formato">Formato de Email incorrecto</string>
+
+    <string name="button_nuevo">NUEVO</string>
+    <string name="button_enviar">ENVIAR</string>
+    
+</resources>
